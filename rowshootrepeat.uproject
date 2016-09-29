@@ -6,6 +6,7 @@
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor",
-		"HTML5"
+		"HTML5",
+		"IOS"
 	]
 }
